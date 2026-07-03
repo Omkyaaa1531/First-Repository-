@@ -24,7 +24,7 @@ This is the how the basic HTML page looks like !!
 
 Hope you will accept my first repository on GitHub 🙂.
 
-THANK YOU 🙏
+THANK YOU. 🙏
 
 
 
