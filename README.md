@@ -19,4 +19,11 @@ My ultimate goal is to master coding, build a strong developer profile, and succ
    A software that acts as an interface between the computer hardware and the user.Examples: Windows, macOS, Linux.Key Concept (Linux vs Windows): Linux is open-source, highly secure, and mostly used via command-line in software development. Windows is user-friendly with a graphical interface.
 
 # 2. How the Web Works HTTP (Hypertext Transfer Protocol):
-  protocol used for sending data between a web browser and a website.HTTPS: The secure version of HTTP. It encrypts all data sent between the browser and the server to protect sensitive information.to the client.WorksHTTPTPTP
+  protocol used for sending data between a web browser and a website.HTTPS: The secure version of HTTP. It encrypts all data sent between the browser and the server to protect sensitive information to the client.
+
+# 3. Computer Networks:
+- Internet:A global network of conputers connected to share information.
+- DNS (Domain Name System):Converts human-readable website names (like google.com) into computer-readable IP addresses.
+- Client- Server Model:
+- Client:Your device that requests information.
+- Server:A powerful remote computer that stores data and sends it back to the client.
