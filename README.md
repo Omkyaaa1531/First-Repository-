@@ -24,6 +24,16 @@ My ultimate goal is to master coding, build a strong developer profile, and succ
 # 3. Computer Networks:
 - Internet:A global network of conputers connected to share information.
 - DNS (Domain Name System):Converts human-readable website names (like google.com) into computer-readable IP addresses.
-## Client- Server Model:
+##### Client- Server Model:
 - Client:Your device that requests information.
 - Server:A powerful remote computer that stores data and sends it back to the client.
+
+ ## Progrss Check
+ * Status: Computer fundamentals module completed!
+ * Next target: Mastering Git and Github basics.
+
+ ### 🤝 Let's connect and grow !!
+
+ ## If you like my first ever repository, feel free to **Star** 🌟
+
+ # THANK YOU FOR VISITING MY REPOSITORY. 🙏
