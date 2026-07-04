@@ -1,7 +1,7 @@
 # First-Repository-
-This is my first repository on the GitHub. I'm making this just for trial to enter a GitHub.
-
-In this I'm representing the basic structure of HTML page.
+Hii!!
+Im Omkar Chaugule. Currently, I'm learning as a first year Computer Science student.
+This is my first repository on github. I'm just trying to learn a github.
 
 
 
