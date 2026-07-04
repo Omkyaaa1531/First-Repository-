@@ -7,13 +7,11 @@ Welcome to my software development jorney !! I am an aspiring Software Engineer,
 
 My ultimate goal is to master coding, build a strong developer profile, and successfully transition into a professional **Software Developer**.Journey
 
----
-
-
-
-
-
-
+# My Roadmap & Goals
+- [ ]  Master Computer Fundamentals (OS, Networking, Linux).
+- [ ]  Learn core programming languages (Python / JavaScript / Java).
+- [ ]  Deep dive into Git & GitHub for version control.
+- [ ]  Build real-world projects and create a strong portfolio.
 
 
 
