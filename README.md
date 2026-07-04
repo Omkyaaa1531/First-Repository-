@@ -10,11 +10,11 @@ My ultimate goal is to master coding, build a strong developer profile, and succ
 
 ---
 
-## 🎯 My Roadmap & Goals
-- [ ] **Phase 1:** Master Computer Fundamentals (OS, Networking, Linux).
-- [ ] **Phase 2:** Learn core programming languages (Python / JavaScript / Java).
-- [ ] **Phase 3:** Deep dive into Git & GitHub for version control.
-- [ ] **Phase 4:** Build real-world projects and create a strong portfolio.
+# 🎯 My Roadmap & Goals
+- [ ] :** Master Computer Fundamentals (OS, Networking, Linux).
+- [ ] :** Learn core programming languages (Python / JavaScript / Java).
+- [ ] :** Deep dive into Git & GitHub for version control.
+- [ ] :** Build real-world projects and create a strong portfolio.
 
 ---
 
