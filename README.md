@@ -3,7 +3,7 @@ This is my first repository on the GitHub. I'm making this just for trial to ent
 
 In this I'm representing the basic structure of HTML page.
 
-<DOCTYPE html>
+<DOCTYPE html>. -> verified html sheet
 <html>
 <title>
 <head>
