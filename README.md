@@ -1,7 +1,7 @@
 # First-Repository-
 Hii!!
 I'm Omkar Chaugule. Currently, I'm learning as a first year Computer Science student.
-This is my first repository on I.
+This is my first repository on GitHub.
 
 Welcome to my software development jorney !!
 I am an aspiring Software Engineer, and this repository is a dedicated space where I document my daily learning, track my goals, and showcase my progress. 
